@@ -1,0 +1,13 @@
+C:\Users\admin\Source\Repos\WindowsFormsClientes\bin\Debug\WindowsFormsClientes.exe.config
+C:\Users\admin\Source\Repos\WindowsFormsClientes\bin\Debug\WindowsFormsClientes.exe
+C:\Users\admin\Source\Repos\WindowsFormsClientes\bin\Debug\WindowsFormsClientes.pdb
+C:\Users\admin\Source\Repos\WindowsFormsClientes\obj\Debug\WindowsFormsClientes.csproj.AssemblyReference.cache
+C:\Users\admin\Source\Repos\WindowsFormsClientes\obj\Debug\WindowsFormsClientes.FrmAltas.resources
+C:\Users\admin\Source\Repos\WindowsFormsClientes\obj\Debug\WindowsFormsClientes.FrmClientes.resources
+C:\Users\admin\Source\Repos\WindowsFormsClientes\obj\Debug\WindowsFormsClientes.Properties.Resources.resources
+C:\Users\admin\Source\Repos\WindowsFormsClientes\obj\Debug\WindowsFormsClientes.csproj.GenerateResource.cache
+C:\Users\admin\Source\Repos\WindowsFormsClientes\obj\Debug\WindowsFormsClientes.csproj.CoreCompileInputs.cache
+C:\Users\admin\Source\Repos\WindowsFormsClientes\obj\Debug\WindowsFormsClientes.exe
+C:\Users\admin\Source\Repos\WindowsFormsClientes\obj\Debug\WindowsFormsClientes.pdb
+C:\Users\admin\Source\Repos\WindowsFormsClientes\obj\Debug\WindowsFormsClientes.FrmConsultaList.resources
+C:\Users\admin\Source\Repos\WindowsFormsClientes\obj\Debug\WindowsFormsClientes.FrmConsultaTree.resources
